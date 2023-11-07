@@ -1,3 +1,7 @@
+BUBBLE SORT:
+ * no.of pass required = no.of elements -1
+ * No.of loops required = 2( 1 for passes and another for comparsions)
+
 #include<stdio.h>
 void swap(int *x,int* y)
 {
